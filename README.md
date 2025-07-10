@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there! I'm Atakan Kasikci
 
-<!--
-**A-K07/A-K07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+I'm a student at **Briskeby VGS**, currently studying **Information Technology**.  
+Alongside my studies, I also work part-time at a bakery — balancing real-world experience with my passion for tech.
 
-Here are some ideas to get you started:
+## 🎯 Goals
+My dream is to build a **successful and fulfilling career in programming**.  
+I'm constantly challenging myself to improve and eventually become fluent in the technologies I use — with the goal of building my own **portfolio, apps, and useful tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+Here are some of the technologies I'm currently working with:
+
+- 🌐 HTML & CSS
+- 🎨 JavaScript
+- 🐍 Python
+
+I'm always learning and exploring new tools and best practices to sharpen my abilities.
+
+## 📫 Get in Touch
+Feel free to reach out if you want to connect, collaborate, or just say hi:
+
+- 📧 **Email**: atakankasikci13@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/atakan-kasikci](https://www.linkedin.com/in/atakan-kasikci)
+
+---
+
+> "Learning never exhausts the mind — it only ignites it." 🔥  
+> — *Atakan Kasikci*
